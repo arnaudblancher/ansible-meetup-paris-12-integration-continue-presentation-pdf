@@ -23,7 +23,7 @@ La Big picture :
 
 
 
-Ce [pdf](https://github.com/arnaudblancher/ansible-meetup-paris-12-integration-continue-presentation-pdf) est celui du Meetup Ansible Paris #12 "Intégration continue / déploiement continu avec Ansible, docker jmeter et gitlab-ci".
+Ce [pdf](https://github.com/arnaudblancher/ansible-meetup-paris-12-integration-continue-presentation-pdf/blob/master/ansible-meetup-paris-12-integration-continue-presentation-pdf.pdf) est celui du Meetup Ansible Paris #12 "Intégration continue / déploiement continu avec Ansible, docker jmeter et gitlab-ci".
 
 Le "code" est là : [https://github.com/arnaudblancher/ansible-gitlab-ci-docker-jmeter](https://github.com/arnaudblancher/ansible-gitlab-ci-docker-jmeter)
 
@@ -37,7 +37,7 @@ Authors Information
 
 Arnaud Blancher
 
-[https://github.com/arnaudblancher/ansible-gitlab-ci-docker-jmeter](https://github.com/arnaudblancher/ansible-gitlab-ci-docker-jmeter)
+[https://github.com/arnaudblancher/ansible-meetup-paris-12-integration-continue-presentation-pdf](https://github.com/arnaudblancher/ansible-meetup-paris-12-integration-continue-presentation-pdf)
 
 Contributions
 -------------
